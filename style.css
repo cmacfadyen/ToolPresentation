@@ -17,6 +17,12 @@ h1{
   text-shadow: 2px 2px #4A96AD;
 }
 
+h3{
+  color:#000000;
+  font-family: "Times New Roman", serif;
+  font-weight: bold;
+  font-family: fantasy;
+}
 p{
   color: #7D1935;
 }
